@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="Python" height="128px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-  <img alt="Java" height="128px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />
+  <img alt="Python" height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+  <img alt="Java" height="64px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />
   <br />
 </p>
 

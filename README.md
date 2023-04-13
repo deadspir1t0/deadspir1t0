@@ -4,22 +4,9 @@
   <br />
 </p>
 
-
-
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=deadspir1t0&theme=github_dark">
-        </a>
-      </p>
-     </td>
-    <td>
-      <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=github_dark">
-        </a>
-      </p>
-</table>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=deadspir1t0&theme=github_dark">
+  </a>
+</p>
 
